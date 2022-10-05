@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UI DesignExample (ES)</string>
+    <string name="first_fragment_title">Primer Fragmento</string>
+    <string name="first_fragment_description">Bienvenidos al primer fragmento.</string>
+    <string name="go_to_second_fragment">Ir al segundo fragmento</string>
+    <string name="second_fragment_title">Segundo Fragmento</string>
+    <string name="second_fragment_description">¡Hola! Este es el segundo fragmento!</string>
+    <string name="back_to_first_fragment">volver al primer fragmento</string>
+</resources>

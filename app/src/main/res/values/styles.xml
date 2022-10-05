@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.AppCompat.HeadlineFirst">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">42sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/dark_blue</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.HeadlineSecond">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">42sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/dark_sage</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Description">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UI DesignExample (ID)</string>
+    <string name="first_fragment_title">Fragment Pertama</string>
+    <string name="first_fragment_description">Selamat datang di fragment pertama</string>
+    <string name="go_to_second_fragment">Pergi ke fragment kedua</string>
+    <string name="second_fragment_title">Fragment Kedua</string>
+    <string name="second_fragment_description">Hai! Ini adalah fragment kedua!</string>
+    <string name="back_to_first_fragment">kembali ke fragment pertama</string>
+</resources>
